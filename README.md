@@ -23,8 +23,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/MouseSelectFind.git
-cd MouseSelectFind
+git clone https://github.com/lucybenz/UiListening.git
+cd UiListening
 
 # 安装依赖
 pip install -r requirements.txt
