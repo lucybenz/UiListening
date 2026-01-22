@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.spec
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+@AutomationLog.txt
+
+# Config (可选，如果不想提交配置)
+# monitors.json
